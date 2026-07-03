@@ -363,8 +363,8 @@ Use recency metrics to identify inactive customers and launch re-engagement camp
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/marketing-campaign-analysis.git
-cd marketing-campaign-analysis
+git clone https://github.com/jamalakbar786-commits/Marketing-Campaign-Analysis.git
+cd Marketing-Campaign-Analysis
 ```
 
 ## Install Dependencies
@@ -436,5 +436,3 @@ streamlit run app.py
 ### Jamal Akbar
 
 Marketing Analytics | Data Analytics | SQL | Python | Streamlit
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
